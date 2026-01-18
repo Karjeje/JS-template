@@ -1,1 +1,1 @@
-# Project-BST
+# Template for JavaScript projects
